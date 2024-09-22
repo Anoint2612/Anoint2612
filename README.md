@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
-<h3 align="center">Full Stack developer</h3>
+<h3 align="center">Data Scientist and ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoint2612&label=Profile%20views&color=0e75b6&style=flat" alt="anoint2612" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoint2612" alt="anoint2612" /></a> </p>
 
-- 🌱 I’m currently learning **C++(DSA), Web development**
+- 🌱 I’m currently learning **C++(DSA), Data Science and ML**
 
-- 📫 How to reach me **ankitsingh50227@gmail.com**
+- 📫 How to reach me **ankitsinghcs27@gmail.com**
 
 - ⚡ Fun fact **Looking for love but love doesn't look at me.**
 
