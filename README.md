@@ -55,6 +55,10 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="background-color: white;"/>
     </a>
+    <!--Streamlit--> 
+    <a>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/streamlit/streamlit-original-wordmark.svg' alt="Streamlit" width="40" height="40" style="background-color: white;"/>
+    </a>
     <!-- VSCode -->
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" style="background-color: white;"/>
