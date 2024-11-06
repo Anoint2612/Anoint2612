@@ -37,7 +37,7 @@
     </a>
     <!-- TensorFlow -->
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" alt="tensorflow" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
     </a>
     <!-- Flask -->
     <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
@@ -55,35 +55,16 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
-    <!-- Regex -->
-    <a href="https://www.regular-expressions.info/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Regular_expression_logo.svg" alt="regex" width="40" height="40"/>
-    </a>
     <!-- VSCode -->
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-    </a>
-    <!-- Kaggle -->
-    <a href="https://www.kaggle.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kaggle_logo.svg/512px-Kaggle_logo.svg.png" alt="kaggle" width="40" height="40"/>
-    </a>
-    <!-- Apache Kafka -->
-    <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Apache_Kafka_logo.svg" alt="kafka" width="40" height="40"/>
     </a>
     <!-- AWS -->
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     </a>
-    <!-- Tableau -->
-    <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Tableau_Logo.svg" alt="tableau" width="40" height="40"/>
-    </a>
-    <!-- Power BI -->
-    <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Microsoft_Power_BI_Logo_2020.svg" alt="powerbi" width="40" height="40"/>
-    </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoint2612&show_icons=true&locale=en&layout=compact" alt="anoint2612" /></p>
