@@ -40,10 +40,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="background-color: white;"/>
     </a>
     <!-- Flask -->
-    <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40" style="background-color: white;"/>
-    </a>
-    <!-- Django -->
+<a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+</a>
+<!-- Django -->
     <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40" style="background-color: white;"/>
     </a>
@@ -64,6 +64,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="background-color: white;"/>
     </a>
 </p>
+    
 
 
 
