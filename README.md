@@ -64,6 +64,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" style="background-color: white;"/>
     </a>
     <a>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/kaggle/kaggle-original.svg' alt="Kaggle" width="40" height="40" style="background-color: white;"/>
+    </a>
+    <a>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg' alt="Mysql" width="40" height="40" style="background-color: white;"/>
+    </a>
+    <a>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg' alt="Git" width="40" height="40" style="background-color: white;"/>
     </a>
     <a>
