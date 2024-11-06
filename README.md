@@ -41,7 +41,7 @@
     </a>
     <!-- Flask -->
 <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
 </a>
 <!-- Django -->
     <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
