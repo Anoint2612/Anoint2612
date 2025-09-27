@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoint2612" alt="anoint2612" /></a> </p>
 
-- 🌱 I’m currently learning **C++(DSA), Data Science and ML**
+- 🌱 I’m currently learning **C++(DSA) and Back End**
 
 - 📫 How to reach me **ankitsinghcs27@gmail.com**
 
@@ -35,19 +35,12 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="background-color: white;"/>
     </a>
-    <!-- TensorFlow -->
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="background-color: white;"/>
-    </a>
+    
     <!-- Flask -->
 <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flask/flask-original-wordmark.svg' alt="flask" width="40" height="40" style="background-color: white;"/>
 </a>
-<!-- Django -->
-    <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40" style="background-color: white;"/>
-    </a>
-    <!-- HTML5 -->
+
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="background-color: white;"/>
     </a>
