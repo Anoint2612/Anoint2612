@@ -46,8 +46,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/ankit-singh-593bb7255"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/></a>
-<a href="https://www.codechef.com/users/anoint2612"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codechef.svg" height="35"/></a>
- <a href="https://leetcode.com/u/ANkit_Egoist/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leetcode.svg" height="35"/></a> 
+<a href="https://leetcode.com/u/ANkit_Egoist/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leetcode.svg" height="35"/></a> 
 </p>
 
 ---
@@ -63,17 +62,10 @@
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-dark-mode-only" width="45"/></a>
 
 <br/>
-
-<!-- Technologies / Frameworks -->
-<a href="https://html.spec.whatwg.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-colored.svg#gh-dark-mode-only" width="45"/></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-colored.svg#gh-dark-mode-only" width="45"/></a>
 <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-dark-mode-only" style="background:white; border-radius:5px;" width="45" title="Express.js"/></a>
 <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg#gh-dark-mode-only" width="45"/></a>
 <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg#gh-dark-mode-only" width="60"/></a>
 <a href="https://www.oracle.com/database/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg#gh-dark-mode-only" width="55" title="OracleDB"/></a>
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/o/oracle-java.svg#gh-dark-mode-only" width="55" title="OJET"/>
-
-<br/>
 
 <!-- Developer Tools -->
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg#gh-dark-mode-only" width="45"/></a>
