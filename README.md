@@ -46,7 +46,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/ankit-singh-593bb7255"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/></a>
-<a href="https://leetcode.com/u/ANkit_Egoist/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leetcode.svg" height="35"/></a>
+<a href="https://leetcode.com/u/ANkit_Egoist/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="35"/></a>
 <a href="https://www.instagram.com/notsochalant_banda/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35"/></a>
 </p>
 
