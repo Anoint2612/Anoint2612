@@ -62,7 +62,7 @@
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-dark-mode-only" width="45"/></a>
 
 <br/>
-<a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-dark-mode-only" style="background:white; border-radius:5px;" width="45" title="Express.js"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black#gh-dark-mode-only" width="100" /></a>
 <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg#gh-dark-mode-only" width="45"/></a>
 <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg#gh-dark-mode-only" width="60"/></a>
 <a href="https://www.oracle.com/database/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg#gh-dark-mode-only" width="55" title="OracleDB"/></a>
@@ -74,8 +74,7 @@
 <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg#gh-dark-mode-only" width="55"/></a>
 <a href="https://github.com/features/codespaces"><img src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4#gh-dark-mode-only" width="45" title="GitHub Codespaces"/></a>
 <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg#gh-dark-mode-only" width="45"/></a>
-<a href="https://www.oracle.com/database/sqldeveloper/"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_oraclesqldeveloper.svg#gh-dark-mode-only" width="45" title="SQL Developer"/></a>
-
+<a href="https://www.oracle.com/database/sqldeveloper/" target="_blank"><img src="https://img.icons8.com/color/452/sql.png#gh-dark-mode-only" width="45" title="Oracle SQL Developer" /></a>
 <br/>
 
 <!-- Services & Libraries -->
@@ -84,7 +83,7 @@
 <a href="https://streamlit.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg#gh-dark-mode-only" width="45"/></a>
 <a><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodemon.svg#gh-dark-mode-only" width="45" title="Multer"/></a>
 <a><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg#gh-dark-mode-only" width="45" title="NodeMailer"/></a>
-<a href="https://railway.app/"><img src="https://railway.app/brand/logotype-light.svg#gh-dark-mode-only" width="80" title="Railway"/></a>
+<a href="https://railway.app/"><img src="https://railway.app/brand/logotype-light.svg#gh-dark-mode-only" width="45" title="Railway"/></a>
 
 </p>
 
