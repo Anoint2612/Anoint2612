@@ -83,7 +83,7 @@
 <a href="https://streamlit.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg#gh-dark-mode-only" width="45"/></a>
 <a><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodemon.svg#gh-dark-mode-only" width="45" title="Multer"/></a>
 <a><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg#gh-dark-mode-only" width="45" title="NodeMailer"/></a>
-<a href="https://railway.app/"><img src="https://railway.app/brand/logotype-light.svg#gh-dark-mode-only" width="45" title="Railway"/></a>
+<a href="https://railway.app/"><img src="https://railway.app/brand/logotype-light.svg#gh-dark-mode-only" width="90" title="Railway"/></a>
 
 </p>
 
@@ -91,7 +91,7 @@
 
 ---
 
-### 🌗 GitHub Stats — Dark/Light Mode Toggle Support ✨
+### 🌗 GitHub Stats (Yes in both modes ;) ) ✨
 
 <p align="center">
   <!-- Light mode -->
