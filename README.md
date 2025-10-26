@@ -47,11 +47,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/ankit-singh-593bb7255"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/></a>
 <a href="https://leetcode.com/u/ANkit_Egoist/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leetcode.svg" height="35"/></a> 
+< a href="https://www.instagram.com/notsochalant_banda/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" height="35"/> </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools *(Dark Mode Only)*
+### 🛠️ Languages & Tools
 
 <p align="left">
 
